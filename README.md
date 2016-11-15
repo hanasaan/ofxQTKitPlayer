@@ -8,4 +8,4 @@ Much better performance than ofAVFoundationPlayer when you are doing frame-by-fr
 
 * 32bit build
 * Base SDK : Mac OSX 10.11 SDK or older
-
+* Type of ofxQTKitMovieRenderer.m must be "Objective-C Source", which is not set to as default when you use project generator.
